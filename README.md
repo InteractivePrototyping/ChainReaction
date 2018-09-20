@@ -15,3 +15,5 @@ The key workshops will be split into four areas
 4. Sensors 
 
 You can find screenshots and example code for sessions 2 - 4 within this repository. 
+
+A good page to bookmark is the [Arduino reference](https://www.arduino.cc/reference/en/) page
